@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104066834554",
+    "project_id": "evaapp-d9dc1",
+    "storage_bucket": "evaapp-d9dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104066834554:android:dc6060a1d1ad83a9d19bc3",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104066834554-3ijoh9deqdq90s0ac1f1g0kngn2kopkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx61xDhqE8uNM6agQOEt9pSmYtesEVZ1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104066834554-3ijoh9deqdq90s0ac1f1g0kngn2kopkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
